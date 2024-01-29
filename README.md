@@ -1,15 +1,16 @@
 - 👋 Hi, I’m @ZhiHaoWang666
 - 👦🏻 I’m a 15 years old boy in middle school
 - - 🇨🇳 I 'm from China
-- 👀 I’m interested in coding
+- 👀 I’m interested in progarmming
 - 🌱 I’m currently learning c++ Data structure and algorithm
 - 📫 How to reach me : in bilibili ,a website in China just like YouTube in here :https://space.bilibili.com/1758613492?spm_id_from=333.1007.0.0
 - ⚡ Fun fact:none
 
+### I am a 15-year-old boy who can only write the Falun. I have a soft spot for Macbook and won the third place in CSP-j/S province. At present, I am still in the impact of CSP, but also in the impact of NOI, and love programming. In the future, I want to be a freelance developer, do open source and software, and share code with the world. I also like photography (but I don't have good photography equipment). This blog will record my algorithm, study and life, code, and daily work of photography.
 
 # 介绍一下我自己
 
-### 在上面，我已经用英文放了个洋P，我是一个只会写算法轮的15岁男孩，对Macbook情有独钟，并获得CSP-j/S省第三名。目前，我还在冲击CS一等，同时也在冲击NOI，并热爱编程。在未来想成为一名自由开发人员，做开源和软件，并与世界共享代码。我也喜欢摄影(但我没有好的摄影设备)，这个博客将记录我的写的算法、学习和生活，编写的代码，摄影的日常工作。
+### 在上面，我已经用英文放了个洋P，我是一个只会写算法轮的15岁男孩，对Macbook情有独钟，并获得CSP-j/S省第三名。目前，我还在冲击CSP一等，同时也在冲击NOI，并热爱编程。在未来想成为一名自由开发人员，做开源和软件，并与世界共享代码。我也喜欢摄影(但我没有好的摄影设备)，这个博客将记录我的写的算法、学习和生活，编写的代码，摄影的日常工作。
 
 <br/>
 
