@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ZhiHaoWang666
+- 👋 Hi, I’m @ZhiHaoWang666 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++ Data structure and algorithm
 - 📫 How to reach me : in bilibili ,a website in China just like YouTube
 - ⚡ Fun fact:none
+- 🇨🇳 I 'm from China
 
 # 介绍一下我自己
 
@@ -13,6 +14,8 @@
 我的另一个学习的博客在这里（想学习了解csp/noi的同学看过来）
 
 https://zhi-mouse.gitee.io/
+
+同样，你可以在B占上找到我：https://space.bilibili.com/1758613492?spm_id_from=333.1007.0.0
 
 <br/>
 
