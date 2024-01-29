@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @ZhiHaoWang666 
+- 👋 Hi, I’m @ZhiHaoWang666
+- 👦🏻 I’m a 15 years old boy in middle school
+- - 🇨🇳 I 'm from China
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++ Data structure and algorithm
-- 📫 How to reach me : in bilibili ,a website in China just like YouTube
+- 📫 How to reach me : in bilibili ,a website in China just like YouTube in here :https://space.bilibili.com/1758613492?spm_id_from=333.1007.0.0
 - ⚡ Fun fact:none
-- 🇨🇳 I 'm from China
+
 
 # 介绍一下我自己
 
@@ -15,7 +17,7 @@
 
 https://zhi-mouse.gitee.io/
 
-同样，你可以在B占上找到我：https://space.bilibili.com/1758613492?spm_id_from=333.1007.0.0
+同样，你可以在B站上找到我：https://space.bilibili.com/1758613492?spm_id_from=333.1007.0.0
 
 <br/>
 
