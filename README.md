@@ -18,8 +18,6 @@ https://zhi-mouse.gitee.io/
 
 ## 分享一下我的摄影作品
 
-### https://www.douyin.com/user/MS4wLjABAAAAHEF59VTk20l6MdW899z8Bpo4kDAsJzX7vAcffBqgyYU?modal_id=7289992868419226932
-
 ![1.jpg](https://p9-pc-sign.douyinpic.com/tos-cn-i-0813/oIxKcSzbEfADI8ClMAhNAQAAAEaSteTryMbAgB~tplv-dy-aweme-images:q75.webp?biz_tag=aweme_images&from=3213915784&s=PackSourceEnum_AWEME_DETAIL&sc=image&se=false&x-expires=1709092800&x-signature=8JDuQm86vATU8qx8F5PQxfwKaLw%3D)
 <br/>
 ![3.jpg](https://p9-pc-sign.douyinpic.com/tos-cn-i-0813c001/oMGKnbJ3ADeNQ2gCiAlgeCYWIp90AAUiBA9Am5~tplv-dy-aweme-images:q75.webp?biz_tag=aweme_images&from=3213915784&s=PackSourceEnum_AWEME_DETAIL&sc=image&se=false&x-expires=1709092800&x-signature=lLERi4Rzq2DcFqLWdQHG6n2LTgk%3D)
