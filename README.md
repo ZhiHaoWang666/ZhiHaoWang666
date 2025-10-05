@@ -8,7 +8,7 @@
 - ⚡ Fun fact:none
 - 🔥 My dream is IOI(International Olympiad in Informatics)
 
-### I have been signed in github about four years, I really want to share some thing useful things just like algorithm and the experence of oi.
+### I have been signed in github about four years, I really want to share some useful things just like algorithm and the experence of oi.
 
 # 介绍一下我自己
 
